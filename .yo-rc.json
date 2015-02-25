@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Maximiliano Mussuto Arquitecto de Software",
+    "packageVersion": "0.0.0",
+    "revealTheme": "sky",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "mossmax62",
+    "githubRepository": "ppt"
+  }
+}
