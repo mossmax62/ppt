@@ -1,15 +1,20 @@
 [
     "index.md",
-    ["bio.html",
-    "informacion-personal.html",
-    "educacion.html",
-    "formacion.html",
-    "intereses-y-actividades.html",
-    "lenguajes.html"],
-    ["experiencia-laboral.html",
-    "acfin-sa.html",
-    "hsbc-bank-chile.html",
-    "roundboxglobal-us.html",
-    "tcs-tata-consultancy-services-chile.html",
-    "anticipa-sa.html"]
+    [
+        "bio.html",
+        "informacion-personal.md",
+        "formacion.md",
+        "educacion.md",
+        "intereses-y-actividades.md",
+        "lenguajes.md"
+    ],
+    [
+        "experiencia-laboral.html",
+        "acfin-sa.html",
+        "hsbc-bank-chile.html",
+        "roundboxglobal-us.html",
+        "tcs-tata-consultancy-services-chile.html",
+        "anticipa-sa.html"
+    ]
+    
 ]
