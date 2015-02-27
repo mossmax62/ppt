@@ -3,6 +3,8 @@
     [
         "bio.html",
         "informacion-personal.md",
+        "formacion3.md",
+        "formacion2.md",
         "formacion.md",
         "educacion.md",
         "intereses-y-actividades.md",
@@ -10,11 +12,11 @@
     ],
     [
         "experiencia-laboral.html",
-        "acfin-sa.html",
-        "hsbc-bank-chile.html",
-        "roundboxglobal-us.html",
-        "tcs-tata-consultancy-services-chile.html",
-        "anticipa-sa.html"
+        "acfin.md",
+        "hsbc.md",
+        "roundboxglobal.md",
+        "tcs.md",
+        "anticipa.md"
     ]
     
 ]
