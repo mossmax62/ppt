@@ -1,6 +1,18 @@
 
 # Maximiliano Mussuto 
+<<<<<<< HEAD
 ##Arquitecto de Software
+=======
+
+
+
+
+
+
+
+##Navega con las flechas del teclado
+
+>>>>>>> master
 <!---
 From the terminal, pop in:
 
@@ -9,4 +21,8 @@ From the terminal, pop in:
 Available options:
 
  ```--markdown --attributes --notes```
+<<<<<<< HEAD
 -->
+=======
+-->
+>>>>>>> master
