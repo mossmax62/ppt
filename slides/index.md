@@ -3,5 +3,3 @@
 
 
 
-##Navega con las flechas del teclado
-
